@@ -1,4 +1,4 @@
-<h1> Hi, I'm Sanjay 👋 </h1>
+<h1> Hi, I'm Sanjay Krishna aka MysterTech 👋 </h1>
 
 I build quant systems, and the agents that build them.
 
