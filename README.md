@@ -161,14 +161,6 @@ Smaller surface than the above, but these you can read.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MysterTech/MysterTech/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MysterTech/MysterTech/output/github-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/MysterTech/MysterTech/output/github-snake.svg" />
-</picture>
-
-<br/><br/>
-
 **Open to conversations about quant infrastructure, agentic systems, and the space between them.**
 
 <a href="https://www.mystertech.com">mystertech.com</a> · <a href="https://x.com/MysterTechWeb">@MysterTechWeb</a>
